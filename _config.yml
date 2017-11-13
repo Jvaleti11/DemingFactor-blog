@@ -27,7 +27,7 @@ paginate: 20
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
-baseurl: "" # /DemingFactor-blog the subpath of your site, e.g. /blog
+baseurl: "/" # /DemingFactor-blog the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DemingFactor
 github_username:  DemingFactor
