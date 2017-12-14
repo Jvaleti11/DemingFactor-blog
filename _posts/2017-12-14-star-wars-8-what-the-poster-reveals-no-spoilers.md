@@ -1,11 +1,5 @@
-----
--layout: post
--title: 'Star Wars Episode 8 - What the Poster Reveals [No spoilers that we know of!]'
--date: 2017-12-14 14:20:15 +0000
-----
-'Star Wars Episode 8 opens today, Thursday Dec 14th 2017. <br><br>Team
-DemingFactor
-  are heading along to an opening night screening later today. We really love the
+Star Wars Episode 8 opens today, Thursday Dec 14th 2017. <br><br>Team
+DemingFactor are heading along to an opening night screening later today. We really love the
   new poster so thought this is a good opportunity to unpack the design.<br><br><strong><img
   src="/uploads/2017/12/14/star-wars-8-poster-analysis.jpg"></strong><br>The poster
   is firstly striking for its constraint and minimalist styling. Star Wars posters
@@ -33,4 +27,3 @@ DemingFactor
   for the Dark Side leaving Luke as the Last Jedi. <br><br>The only way to know is
   to head along to the movie to find out what happens. Which we’ll be doing as a team
   later tonight.<br><br>May the force be with you.<br>Team DemingFactor
----
