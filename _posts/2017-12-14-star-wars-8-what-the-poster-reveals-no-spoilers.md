@@ -1,7 +1,10 @@
+----
+-layout: post
+-title: 'Star Wars Episode 8 - What the Poster Reveals [No spoilers that we know of!]'
+-date: 2017-12-14 14:20:15 +0000
 ---
-title: Star Wars Episode 8 - What the Poster Reveals [No spoilers that we know of!]
-date: 2017-12-14 14:20:15 +0000
-body: 'Star Wars Episode 8 opens today, Thursday Dec 14th 2017. <br><br>Team DemingFactor
+'Star Wars Episode 8 opens today, Thursday Dec 14th 2017. <br><br>Team
+DemingFactor
   are heading along to an opening night screening later today. We really love the
   new poster so thought this is a good opportunity to unpack the design.<br><br><strong><img
   src="/uploads/2017/12/14/star-wars-8-poster-analysis.jpg"></strong><br>The poster
