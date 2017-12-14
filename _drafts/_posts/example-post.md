@@ -3,8 +3,8 @@ title: Star Wars Episode 8 - What the Poster Reveals [No spoilers that we know o
 date: 2017-12-14 14:20:15 +0000
 body: 'Star Wars Episode 8 opens today, Thursday Dec 14th 2017. <br><br>Team DemingFactor
   are heading along to an opening night screening later today. We really love the
-  new poster so thought this is a good opportunity to unpack the design.<br><br><strong>PICTURE<img
-  src="/uploads/2017/12/14/star-wars-8-poster-analysis.jpg"><br></strong><br>The poster
+  new poster so thought this is a good opportunity to unpack the design.<br><br><strong><img
+  src="/uploads/2017/12/14/star-wars-8-poster-analysis.jpg"></strong><br>The poster
   is firstly striking for its constraint and minimalist styling. Star Wars posters
   often have stacks of characters, ships and weapons all packed into the scene so
   it’s lovely to see such a clean design.<br><br>A few subtle hat tips have been made
