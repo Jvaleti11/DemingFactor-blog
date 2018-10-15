@@ -1,7 +1,7 @@
 ---
-pages:
-- _posts/2017-12-14-example-post.md
+label: Blog Posts
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Title
@@ -14,3 +14,6 @@ fields:
   config:
     required: true
     wysiwyg: true
+pages:
+- _posts/working-with-us.md
+- _posts/2017-12-14-example-post.md
