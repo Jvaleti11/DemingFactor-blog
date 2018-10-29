@@ -6,6 +6,8 @@ body: s
 ---
 ![](/uploads/2018/10/15/startae-team-704141-unsplash.jpg)
 
+This guide is intended to give you a better idea what it’s like to work with us and outline some of our standard workflows.
+
 ### Step 1. Make a time to meet. 
 
 One of our commitments to you is that we are easy to work with. Start by booking a free no-obligation video consultation. Maybe you're ready to get started on your project, maybe you are just curious at this stage. Either way perfectly fine. 
