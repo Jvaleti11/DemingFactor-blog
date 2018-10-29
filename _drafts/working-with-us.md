@@ -20,17 +20,21 @@ Sure we're happy to tell you all about our services and how we can help you. We'
 
 By giving you space to unpack the challenges and goals of your project we also build a solid understand of who you are and what you're wanting to achieve. 
 
-### Step 3. We debrief as a team, unpack what has been discussed, envisage the future and create a proposal for you.
+### Step 3. We prepare a proposal
+
+We debrief as a team, unpack what has been discussed, envisage the future and create a proposal for you.
 
 As Media Designers we work across different mediums of design, from print to web to animated graphics. Once upon a time a designer knew how their designs were going to be displayed, on which publication/paper size and when. Now integrating traditional graphic design with modern digital marketing as well as animated motion design is creating a more complex environment, one that brings new challenges and new opportunities to those that can look beyond. We help you develop a Brand Focus which can be used across many different media. With this approach, future creative endeavours by graphic designers, web designers, photographers, interior designers, animators are all working towards the same objective.  This process doesn't take us long, but it has a significant impact on ensuring all your visual communication starts working together and really working for you.
 
-### Step 4. We meet again and we take you through our proposal and discuss how to make the project really work well.
+### Step 4. Discuss our proposal
 
-### Step 5. We send you an invoice for our services.
+We meet again and we take you through our proposal and discuss how to make the project really work well.
+
+### Step 5. You choose to go ahead
 
 ### Step 6. Strategic Positioning Workshop
 
-### Step 7. Design and Creation Work
+### Step 7. Design and Creation
 
 ### Step 8. Delivery
 
