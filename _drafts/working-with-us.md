@@ -58,6 +58,10 @@ Step 7 and 8 really run like an iterative loop. Depending on the project you'll 
 
 Wow. All done. Well wasn't that amazing? We usually meet with clients at the end of major deliverables both to celebrate and hear from you how the process could improve in future. We really value the feedback you give us and are committed to continually improving how we work. The Japanese call it Kaizen. We see it as part of our commitment to the craft.
 
-#### What works best. 
+#### Conclusion
 
-One mistake we commonly see people make when hiring creatives, is that the creative is just the arm of the process. What works best is when you get really clear what the outcome you are wanting is and not get too attached to a specific way of achieving that outcome. Smart clients take this approach and as a result unlock more passion and creativity from the creatives they hire.What you can do to prepare? We usually run through this with clients ourselves, so consider this a sneak peek. But the killer question we always ask is "What does your ideal customer look like?", it can be harder than you think. We've found the clearer you can get on imaging who they are the clearer becomes your whole organisational focus.How can I eek every last bit of value out of working with a DesignerDesigners design to constraints. Get clear on What problem you really want us to solve and spend time for yourself unpacking what the problem is. Share that clearly and you'll maximise your results. Unclear on all of it, that's all good, that's part of why we're here and our approach in helping you unpack this.We’d love to hear from youWe hope that this has given you a better idea of working with designers and working with our team specifically. We’d love to hear about your project, drop us a line and lets chat further.
+Were happiest when people bring us complex problems they are grappling with us and ask us to go to work to creativley and strategically to help them get things moving. 
+
+We'd love you to reach out and make a time.
+
+[https://calendly.com/demingfactor/free-initial-consultation](https://calendly.com/demingfactor/free-initial-consultation "https://calendly.com/demingfactor/free-initial-consultation")
