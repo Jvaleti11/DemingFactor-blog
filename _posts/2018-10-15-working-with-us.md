@@ -4,7 +4,7 @@ date: 2018-10-15 15:37:01 +1030
 body: <img src="/uploads/2018/10/29/how-we-work.png">
 
 ---
-This guide is intended to give you a better idea what it’s like to work with us and outline some of our standard workflows.
+**This guide is intended to give you a better idea what it’s like to work with us and outline some of our standard workflows.**
 
 ![](/uploads/2018/10/29/how-we-work.png)
 
