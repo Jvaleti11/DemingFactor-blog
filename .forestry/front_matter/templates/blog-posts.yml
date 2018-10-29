@@ -15,5 +15,5 @@ fields:
     required: true
     wysiwyg: true
 pages:
-- _posts/working-with-us.md
+- _posts/2018-10-15-working-with-us.md
 - _posts/2017-12-14-example-post.md
