@@ -1,5 +1,5 @@
 ---
-title: Working with us
+title: How we work
 date: 2018-10-15 15:37:01 +1030
 body: <img src="/uploads/2018/10/29/how-we-work.png">
 
