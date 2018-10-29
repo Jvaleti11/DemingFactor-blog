@@ -1,12 +1,11 @@
 ---
 title: Working with us
 date: 2018-10-15 15:37:01 +1030
-body: s
+body: <img src="/uploads/2018/10/29/how-we-work.png">
 
 ---
-![](/uploads/2018/10/15/startae-team-704141-unsplash.jpg)
 
-This guide is intended to give you a better idea what it’s like to work with us and outline some of our standard workflows.
+![](/uploads/2018/10/29/how-we-work.png)This guide is intended to give you a better idea what it’s like to work with us and outline some of our standard workflows.
 
 ### Step 1. Make a time to meet. 
 
