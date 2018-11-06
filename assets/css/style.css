@@ -113,8 +113,8 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #666;
+	font:18px/1  EuclidFlex, Helvetica, Arial, sans-serif;
+	color: #3626A7;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
@@ -123,13 +123,13 @@ body {
 h1 {
 	font-size: 30px;
 	letter-spacing: -1px;
-	color: #222;
+	color: #3626A7;
 	font-weight: bold;
 }
 
 h2 {
 	font: italic 19px/1.3em Georgia,serif;
-	color: #bbb;
+	color: #3626A7;
 }
 
 .logo{
@@ -140,7 +140,7 @@ h2 {
 }
 .profile #wrapper {
 	padding: 100px 40px 0px;
-	max-width: 600px;
+	max-width: 760px;
 	margin: 0 auto;
 }
 
@@ -164,15 +164,15 @@ h2 {
 	font-weight: 400;
 	letter-spacing: 0px;
 	font-size: 20px;
-	color: #222;
+	color: #3626A7;
 }
 
 .profile h2 {
 	font-size: 20px;
 	  font-weight: 300;
-	  color: #aaa;
+	  color: #3626A7;
 	  margin-top: 10px;
-	  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	  font-family: EuclidFlex, Helvetica, Arial, sans-serif;
 	  font-style: normal;
 
 }
@@ -180,7 +180,7 @@ h2 {
 nav.main-nav {
 	padding: 20px 20px 0;
 
-	/*max-width: 600px;*/
+	/*max-width: 760px;*/
 	/*width:100%;*/
 	background: #fff;
 	background: rgba(255,255,255,.90);
@@ -194,7 +194,7 @@ nav.main-nav a {
 	top: 8px;
 	right: 6px;
 	padding: 8px 12px;
-	color: #5badf0;
+	color: #3626A7;
 	font-size: 13px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
@@ -202,19 +202,23 @@ nav.main-nav a {
 
 }
 nav.main-nav a.cta {
-	background: #5badf0;
+	background: #3626A7;
 	color: #fff;
 	margin-left: 12px;
+	transition: 0.1s;
+}
+nav.main-nav a.cta:hover {
+	background: #211761;
 }
 
 #wrapper {
-  max-width: 600px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 60px 40px 100px 40px;
 }
 
 #wrapper.home {
-	max-width: 600px;
+	max-width: 760px;
 	margin: 0 auto;
 	padding: 0px 40px 20px 40px;
 }
@@ -234,11 +238,16 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration: none;
-	color: #5badf0;
-	color: #5694f1;
+	color: #F9C6C4;
+	color: #F9C6C4;
 }
 
-p a { color: #5694f1; }
+p a { text-decoration: underline;
+ 			color:#3626A7;
+		}
+p a:hover {
+ 			color:#F9C6C4;
+		}
 
 /*Transitions*/
 a,
@@ -258,7 +267,7 @@ li	{ list-style-type:circle; list-style-position:inside; }
 #post-body, p { line-height:1.7; }
 
 b, strong { font-weight: 500;
-  color: #1E2025; }
+  color: #3626A7; }
 em, i { font-style: italic; }
 
 #title {
@@ -281,8 +290,8 @@ em, i { font-style: italic; }
 .home h1 {
 	font-size: 30px;
 	letter-spacing: -1px;
-	color: #222;
-	font-weight: bold;
+	color: #3626A7;
+	font-weight: 300;
 }
 
 .home h2 {
@@ -297,23 +306,23 @@ em, i { font-style: italic; }
 
 .post h1 {
 	margin-bottom: 20px;
-	color: #222;
-	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
+	color: #3626A7;
+	font: 500 32px/1.4em EuclidFlex, Helvetica,Arial,sans-serif;
 }
 
 .post h2 {
 	margin-bottom: 40px;
-	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
-	  color: #111;
+	  font: 300 24px/1.5 EuclidFlex,Helvetica,Arial,sans-serif;
+	  color: #3626A7;
 }
 
 
 .post h2.headline {
 	/*font: italic 22px/1.3em Georgia,serif;*/
-	font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 16px/1.5em EuclidFlex,Helvetica,Arial,sans-serif;
 	margin: -5px 0 40px 0;
-	color: #b2b9be;
-	  font-size: 13px;
+	color: #b2b9bc;
+	  font-size: 16px;
 	  text-transform: uppercase;
 	  letter-spacing: 2px;
 	  /*margin-top: 15px;*/
@@ -321,15 +330,15 @@ em, i { font-style: italic; }
 }
 
 #post-list h2 {
-	font: normal 17px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: normal 17px/1.5em EuclidFlex,Helvetica,Arial,sans-serif;
 	color: #aaa;
 	max-width: 400px;
 	margin-top: 2px;
 }
 
-h3, h4, h5 { color:#333; }
+h3, h4, h5 { color:#3626A7;; }
 
-h3 { font-size:20px; font-weight: 400; }
+h3 { font-size:20px; font-weight: 600; }
 h4 { font-size:16px; font-weight:bold; }
 h5 { font-size:15px; font-weight: bold; }
 
@@ -457,16 +466,16 @@ Post List
 }
 
 #post-list a {
-	color: #333;
+	color: #3626A7;
 	display: block;
-	font: bold 19px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 24px/1.7 EuclidFlex,helvetica,Arial,sans-serif;
 }
 
 #post-list .dates {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 17px/1.8EuclidFlex,helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
@@ -486,9 +495,9 @@ Post List
 }
 
 #archive-link:hover {
-	background: #5694f1;
+	background: #F9C6C4;
 	color: #fff;
-	box-shadow: 0 0 0 1px #5694f1;
+	box-shadow: 0 0 0 1px #F9C6C4;
 }
 
 #archive-link span {
@@ -616,7 +625,7 @@ h1.archive {
 
 h2.month {
 	width: 100%;
-	font: bold 13px/1 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 13px/1 EuclidFlex,helvetica,Arial,sans-serif;
 	text-transform: uppercase;
 	margin-top: 40px;
 	margin-bottom: 10px;
@@ -630,7 +639,7 @@ h2.month {
 
 #archive-list a {
 	display: block;
-	font: bold 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: bold 17px/1.7 EuclidFlex,helvetica,Arial,sans-serif;
 	color: #333;
 }
 
@@ -638,12 +647,12 @@ h2.month {
 	float: right;
 	position: relative;
 	top: 1px;
-	font: 300 17px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 17px/1.7 EuclidFlex,helvetica,Arial,sans-serif;
 	color: #bbb;
 }
 
 #archive-list li a:hover,#archive-list li:hover .dates {
-	color: #5694f1;
+	color: #F9C6C4;
 }
 
 #post-meta img.avatar {
@@ -658,12 +667,12 @@ h2.month {
 
 #post-list.archive.readmore h3{
 
-	  font: 400 20px "Helvetica Neue", Helvetica,Arial,sans-serif;
+	  font: 400 20px EuclidFlex, Helvetica,Arial,sans-serif;
 	  margin-bottom: 30px;
 }
 
 #post-list.archive.readmore a{
-	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 400 16px/1.6 EuclidFlex,helvetica,Arial,sans-serif;
 	color: #5694f1;
 }
 
@@ -672,7 +681,7 @@ h2.month {
 }
 
 #post-list.archive.readmore .dates{
-	font: 300 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
+	font: 300 16px/1.6 EuclidFlex,helvetica,Arial,sans-serif;
 }
 #sharing a.facebook {
   background: #4361b3;
